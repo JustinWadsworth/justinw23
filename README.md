@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @djthedj86
+- 👋 Hi, I’m Justin Wadsworth.
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning the Google Data Analytics Certificate before starting school in the Fall
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’ve recently completed the Google Data Analytics Certificate through Coursera and will attend school in August
+- 💞️ I’m looking to collaborate on as many projects as I can to learn and gain experience
 - 📫 How to reach me ...
 
 <!---
